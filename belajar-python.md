@@ -25,7 +25,7 @@ Langsung saja kita praktikkan.
 
 Buka text editor favorit anda (di sini saya menggunakan visual studio code)
 
-Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan dengan nama```hello-world.py```.
+Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan dengan nama ```hello-world.py```.
 
 Dalam file tersebut, tuliskan kode program berikut:
 
@@ -46,12 +46,12 @@ Buka terminal / command prompt anda.
 
 Arahkan terminal ke folder aktif di mana file python tadi kita simpan.
 
-Misalkan file hello-world.py kita simpan di dalam direktori /home/jagongoding/belajar-python-dasar, maka kita tinggal arahkan saja ke direktori tersebut dengan perintah cd.
-Setelah itu, tulis perintah python ```<nama-file.py>
+Misalkan file hello-world.py kita simpan di dalam direktori /home/python/belajar-python-dasar, maka kita tinggal arahkan saja ke direktori tersebut dengan perintah cd.
+Setelah itu, tulis perintah python `<nama-file.py>`
 
-```python hello-world.py
+`python hello-world.py`
 Ketik enter.
 
 Maka anda akan mendapatkan output kira-kira seperti ini:
 
-```Hello World!```
+`Hello World!`
