@@ -30,7 +30,7 @@ Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan den
 Dalam file tersebut, tuliskan kode program berikut:
 
 ```hello-world.py
-print('Hello world!')```
+print('Hello world!')
 
 
 ## Mengeksekusi File Python
@@ -47,9 +47,9 @@ Buka terminal / command prompt anda.
 Arahkan terminal ke folder aktif di mana file python tadi kita simpan.
 
 Misalkan file hello-world.py kita simpan di dalam direktori /home/jagongoding/belajar-python-dasar, maka kita tinggal arahkan saja ke direktori tersebut dengan perintah cd.
-Setelah itu, tulis perintah python ```<nama-file.py>```
+Setelah itu, tulis perintah python ```<nama-file.py>
 
-```python hello-world.py```
+```python hello-world.py
 Ketik enter.
 
 Maka anda akan mendapatkan output kira-kira seperti ini:
