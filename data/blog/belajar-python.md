@@ -1,7 +1,7 @@
 ---
 title: 'Dasar Python'
 date: 2021-10-26
-tags: ['python, 'dasar', 'guide']
+tags: ['python', 'dasar', 'guide']
 draft: false
 summary: 'Hello World 🐍'
 layout: PostSimple
@@ -12,12 +12,12 @@ layout: PostSimple
 Python adalah bahasa pemrograman yang sangat mudah, human friendly, dan banyak digunakan. Hingga saat ini, python masih termasuk jajaran 3 besar bahasa pemrograman yang paling banyak dipakai. Baik di dunia industri digital, pendidikan, bahkan juga di dunia akademis.
 
 ## Menulis File Python
+
 ### Apa itu file Python?
 
-File python adalah sebuah file dengan ekstensi ```.py``` yang berisi skrip python. Kita bisa mengeksekusi file tersebut melalui interpreter python, baik secara manual melalui terminal, atau pun menggunakan IDE.
+File python adalah sebuah file dengan ekstensi `.py` yang berisi skrip python. Kita bisa mengeksekusi file tersebut melalui interpreter python, baik secara manual melalui terminal, atau pun menggunakan IDE.
 
-Untuk membuat file ```.py```, kita tidak perlu aplikasi khusus. Aplikasi apa pun yang bisa kita gunakan untuk mengetik (text editor) maka itu juga bisa kita gunakan untuk membuat file ```.py```
-
+Untuk membuat file `.py`, kita tidak perlu aplikasi khusus. Aplikasi apa pun yang bisa kita gunakan untuk mengetik (text editor) maka itu juga bisa kita gunakan untuk membuat file `.py`
 
 ## Membuat File Python
 
@@ -25,7 +25,7 @@ Langsung saja kita praktikkan.
 
 Buka text editor favorit anda (di sini saya menggunakan visual studio code)
 
-Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan dengan nama ```hello-world.py```.
+Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan dengan nama `hello-world.py`.
 
 Dalam file tersebut, tuliskan kode program berikut:
 
@@ -55,3 +55,4 @@ Ketik enter.
 Maka anda akan mendapatkan output kira-kira seperti ini:
 
 `Hello World!`
+```
