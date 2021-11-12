@@ -3,8 +3,9 @@ title: 'Dasar Python'
 date: 2021-10-26
 tags: ['python', 'dasar', 'guide']
 draft: false
-summary: 'Hello World 🐍'
+summary: 'Belajar dasar-dasar python 🐍'
 layout: PostSimple
+author: default
 ---
 
 ## Pengertin Python
@@ -29,8 +30,7 @@ Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan den
 
 Dalam file tersebut, tuliskan kode program berikut:
 
-```hello-world.py
-print('Hello world!')
+`print('Hello world!')`
 
 
 ## Mengeksekusi File Python
@@ -55,4 +55,3 @@ Ketik enter.
 Maka anda akan mendapatkan output kira-kira seperti ini:
 
 `Hello World!`
-```
