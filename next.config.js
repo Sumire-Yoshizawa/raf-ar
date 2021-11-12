@@ -40,10 +40,5 @@ module.exports = withBundleAnalyzer({
     return config
   },
 
-"eventName": "NEXT_VERSION",
-  "payload": {
-    "version": "9.0.5-canary.2",
-    "isDevelopment": false
-  }
 
 })
