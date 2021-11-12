@@ -30,7 +30,7 @@ Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan den
 
 Dalam file tersebut, tuliskan kode program berikut:
 
-```print('Hello world!')```
+```print('Hello World!')```
 
 
 ## Mengeksekusi File Python
