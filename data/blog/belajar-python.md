@@ -5,7 +5,7 @@ tags: ['python', 'dasar', 'guide']
 draft: false
 summary: 'Belajar dasar-dasar python 🐍'
 layout: PostSimple
-author: default
+authors: default
 ---
 
 ## Pengertin Python
