@@ -1,10 +1,10 @@
 ---
 title: 'Dasar Python'
 date: 2021-10-26
+lastmod: '2021-11-12'
 tags: ['python', 'dasar', 'guide']
 draft: false
 summary: 'Belajar dasar-dasar python 🐍'
-layout: PostSimple
 authors: ['default']
 ---
 
@@ -30,7 +30,7 @@ Buat file baru, lalu simpan dengan nama sesuka kalian, disini saya contohkan den
 
 Dalam file tersebut, tuliskan kode program berikut:
 
-`print('Hello world!')`
+```print('Hello world!')```
 
 
 ## Mengeksekusi File Python
@@ -49,9 +49,9 @@ Arahkan terminal ke folder aktif di mana file python tadi kita simpan.
 Misalkan file hello-world.py kita simpan di dalam direktori /home/python/belajar-python-dasar, maka kita tinggal arahkan saja ke direktori tersebut dengan perintah cd.
 Setelah itu, tulis perintah python `<nama-file.py>`
 
-`python hello-world.py`
+```python hello-world.py```
 Ketik enter.
 
 Maka anda akan mendapatkan output kira-kira seperti ini:
 
-`Hello World!`
+```Hello World!```
