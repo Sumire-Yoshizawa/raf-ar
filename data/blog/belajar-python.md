@@ -50,13 +50,13 @@ Arahkan terminal ke folder aktif di mana file python tadi kita simpan.
 
 Misalkan file hello-world.py kita simpan di dalam direktori /home/python/belajar-python-dasar, maka kita tinggal arahkan saja ke direktori tersebut dengan perintah cd.
 Setelah itu, tulis perintah python `<nama-file.py>`
-```bash
+```sh
 python hello-world.py
 ```
 Ketik enter.
 
 Maka anda akan mendapatkan output kira-kira seperti ini:
 
-```bash
+```console
 Hello World!
 ```
