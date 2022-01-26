@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: '</raf>',
+  title: '<raf />',
   author: 'Rafa Al Razzak',
-  headerTitle: '</raf>',
+  headerTitle: '<raf />',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   siteUrl: 'http://localhost',
