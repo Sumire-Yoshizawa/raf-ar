@@ -1,6 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
@@ -15,7 +14,7 @@ const LayoutWrapper = ({ children }) => {
           <div>
             <Link href="/" aria-label="</raf> Blog">
               <div className="flex items-center justify-between">
-                <div className="mr-3">`{<raf />}`</div>
+                <div className="mr-3 bg-gradient-to-br from-emerald-300 to-cyan-300 text-2xl font-bold bg-clip-text text-transparent">{`<raf />`}</div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
                     {siteMetadata.headerTitle}
