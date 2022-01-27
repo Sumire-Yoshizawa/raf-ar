@@ -2,111 +2,121 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>&lt;raf /&gt;</title>
-      <link>http://localhost/blog</link>
-      <description>A blog created with Next.js and Tailwind.css</description>
+      <link>https://raf-ar.vercel.app/blog</link>
+      <description>Personal blog with Next &amp; Tailwind</description>
       <language>en-us</language>
-      <managingEditor>leorafaalrazak26@gmail.com (Rafa Al Razzak)</managingEditor>
-      <webMaster>leorafaalrazak26@gmail.com (Rafa Al Razzak)</webMaster>
-      <lastBuildDate>Tue, 26 Oct 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="http://localhost/feed.xml" rel="self" type="application/rss+xml"/>
+      <managingEditor>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</managingEditor>
+      <webMaster>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</webMaster>
+      <lastBuildDate>Thu, 27 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://raf-ar.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>http://localhost/blog/belajar-python</guid>
+    <guid>https://raf-ar.vercel.app/blog/introduction</guid>
+    <title>Introduction</title>
+    <link>https://raf-ar.vercel.app/blog/introduction</link>
+    <description>Get to know me</description>
+    <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
+    <category>intro</category>
+  </item>
+
+  <item>
+    <guid>https://raf-ar.vercel.app/blog/belajar-python</guid>
     <title>Dasar Python</title>
-    <link>http://localhost/blog/belajar-python</link>
+    <link>https://raf-ar.vercel.app/blog/belajar-python</link>
     <description>Belajar dasar-dasar python 🐍</description>
     <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>python</category><category>dasar</category><category>guide</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/new-features-in-v1</guid>
+    <guid>https://raf-ar.vercel.app/blog/new-features-in-v1</guid>
     <title>New features in v1</title>
-    <link>http://localhost/blog/new-features-in-v1</link>
+    <link>https://raf-ar.vercel.app/blog/new-features-in-v1</link>
     <description>An overview of the new features released in v1 - code block copy, multiple authors, frontmatter layout and more</description>
     <pubDate>Sat, 07 Aug 2021 15:32:14 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>next-js</category><category>tailwind</category><category>guide</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/nested-route/introducing-multi-part-posts-with-nested-routing</guid>
+    <guid>https://raf-ar.vercel.app/blog/nested-route/introducing-multi-part-posts-with-nested-routing</guid>
     <title>Introducing Multi-part Posts with Nested Routing</title>
-    <link>http://localhost/blog/nested-route/introducing-multi-part-posts-with-nested-routing</link>
+    <link>https://raf-ar.vercel.app/blog/nested-route/introducing-multi-part-posts-with-nested-routing</link>
     <description>The blog template supports posts in nested sub-folders. This can be used to group posts of similar content e.g. a multi-part course. This post is itself an example of a nested route!</description>
     <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>multi-author</category><category>next-js</category><category>feature</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/introducing-tailwind-nextjs-starter-blog</guid>
+    <guid>https://raf-ar.vercel.app/blog/introducing-tailwind-nextjs-starter-blog</guid>
     <title>Introducing Tailwind Nextjs Starter Blog</title>
-    <link>http://localhost/blog/introducing-tailwind-nextjs-starter-blog</link>
+    <link>https://raf-ar.vercel.app/blog/introducing-tailwind-nextjs-starter-blog</link>
     <description>Looking for a performant, out of the box template, with all the best in web technology to support your blogging needs? Checkout the Tailwind Nextjs Starter Blog template.</description>
     <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>next-js</category><category>tailwind</category><category>guide</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/guide-to-using-images-in-nextjs</guid>
+    <guid>https://raf-ar.vercel.app/blog/guide-to-using-images-in-nextjs</guid>
     <title>Images in Next.js</title>
-    <link>http://localhost/blog/guide-to-using-images-in-nextjs</link>
+    <link>https://raf-ar.vercel.app/blog/guide-to-using-images-in-nextjs</link>
     <description>In this article we introduce adding images in the tailwind starter blog and the benefits and limitations of the next/image component.</description>
     <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>next js</category><category>guide</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/deriving-ols-estimator</guid>
+    <guid>https://raf-ar.vercel.app/blog/deriving-ols-estimator</guid>
     <title>Deriving the OLS Estimator</title>
-    <link>http://localhost/blog/deriving-ols-estimator</link>
+    <link>https://raf-ar.vercel.app/blog/deriving-ols-estimator</link>
     <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
     <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>next js</category><category>math</category><category>ols</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/github-markdown-guide</guid>
+    <guid>https://raf-ar.vercel.app/blog/github-markdown-guide</guid>
     <title>Markdown Guide</title>
-    <link>http://localhost/blog/github-markdown-guide</link>
+    <link>https://raf-ar.vercel.app/blog/github-markdown-guide</link>
     <description>Markdown cheatsheet for all your blogging needs - headers, lists, images, tables and more! An illustrated guide based on Github Flavored Markdown.</description>
     <pubDate>Fri, 11 Oct 2019 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>github</category><category>guide</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/the-time-machine</guid>
+    <guid>https://raf-ar.vercel.app/blog/the-time-machine</guid>
     <title>The Time Machine</title>
-    <link>http://localhost/blog/the-time-machine</link>
+    <link>https://raf-ar.vercel.app/blog/the-time-machine</link>
     <description>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated...</description>
     <pubDate>Wed, 15 Aug 2018 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>writings</category><category>book</category><category>reflection</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/pictures-of-canada</guid>
+    <guid>https://raf-ar.vercel.app/blog/pictures-of-canada</guid>
     <title>O Canada</title>
-    <link>http://localhost/blog/pictures-of-canada</link>
+    <link>https://raf-ar.vercel.app/blog/pictures-of-canada</link>
     <description>The scenic lands of Canada featuring maple leaves, snow-capped mountains, turquoise lakes and Toronto. Take in the sights in this photo gallery exhibition and see how easy it is to replicate with some MDX magic and tailwind classes.</description>
     <pubDate>Sat, 15 Jul 2017 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>holiday</category><category>canada</category><category>images</category>
   </item>
 
   <item>
-    <guid>http://localhost/blog/code-sample</guid>
+    <guid>https://raf-ar.vercel.app/blog/code-sample</guid>
     <title>Sample .md file</title>
-    <link>http://localhost/blog/code-sample</link>
+    <link>https://raf-ar.vercel.app/blog/code-sample</link>
     <description>Example of a markdown file with code blocks and syntax highlighting</description>
     <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
-    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <author>contact.rafaalrazzak@gmail.com (Rafa Al Razzak)</author>
     <category>markdown</category><category>code</category><category>features</category>
   </item>
 
