@@ -5,15 +5,15 @@
   "scripts": {
     "start": "next-remote-watch ./data",
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install"
   },
   "dependencies": {
-    "@tailwindcss/forms": "^0.4.0",
-    "@tailwindcss/typography": "^0.5.0-alpha.3",
+    "@tailwindcss/forms": "^0.3.2",
+    "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^10.2.5",
     "esbuild": "^0.12.15",
     "github-slugger": "^1.3.0",
@@ -24,9 +24,8 @@
     "next-themes": "^0.0.14",
     "postcss": "^8.3.5",
     "preact": "^10.5.13",
-    "preact-render-to-string": "^5.1.19",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "reading-time": "1.3.0",
     "rehype-autolink-headings": "^6.0.0",
     "rehype-katex": "^6.0.0",
@@ -36,13 +35,12 @@
     "remark-gfm": "^2.0.0",
     "remark-math": "^5.0.0",
     "sharp": "^0.28.3",
-    "tailwindcss": "^3.0.16",
+    "tailwindcss": "^2.2.2",
     "unist-util-visit": "^4.0.0"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "11.1.0",
     "@svgr/webpack": "^5.5.0",
-    "add": "^2.0.6",
     "cross-env": "^7.0.3",
     "dedent": "^0.7.0",
     "eslint": "^7.29.0",
@@ -56,8 +54,7 @@
     "inquirer": "^8.1.1",
     "lint-staged": "^11.0.0",
     "next-remote-watch": "^1.0.0",
-    "prettier": "2.2.1",
-    "webpack": "^5.67.0"
+    "prettier": "2.2.1"
   },
   "lint-staged": {
     "*.+(js|jsx|ts|tsx)": [
