@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>leorafaalrazak26@gmail.com (Rafa Al Razzak)</managingEditor>
       <webMaster>leorafaalrazak26@gmail.com (Rafa Al Razzak)</webMaster>
-      <lastBuildDate>Sat, 07 Aug 2021 15:32:14 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 26 Oct 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="http://localhost/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>http://localhost/blog/belajar-python</guid>
+    <title>Dasar Python</title>
+    <link>http://localhost/blog/belajar-python</link>
+    <description>Belajar dasar-dasar python 🐍</description>
+    <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+    <author>leorafaalrazak26@gmail.com (Rafa Al Razzak)</author>
+    <category>python</category><category>dasar</category><category>guide</category>
+  </item>
+
   <item>
     <guid>http://localhost/blog/new-features-in-v1</guid>
     <title>New features in v1</title>
