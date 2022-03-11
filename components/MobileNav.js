@@ -47,7 +47,7 @@ const MobileNav = () => {
         </svg>
       </button>
       <div
-        className={`fixed w-full h-full my-6 right-0 bg-gray-200 dark:bg-gray-800 opacity-95 z-10 transform ease-in-out duration-300 justify-center items-center ${
+        className={`fixed right-0 w-full h-full my-6 backdrop-filter backdrop-blur-lg bg-gray-200 opacity-75 dark:backdrop-blur-lg dark:bg-gray-800 opacity-75 z-10 transform ease-in-out duration-300 ${
           navShow ? 'translate-x-0' : 'translate-x-full'
         }`}
       >
@@ -57,7 +57,7 @@ const MobileNav = () => {
           className="fixed w-full h-full cursor-auto focus:outline-none"
           onClick={onToggleNav}
         ></button>
-        <nav className="fixed h-full bg-slate-300">
+        <nav className="fixed h-full bg-slate-300 ">
           {headerNavLinks.map((link) => (
             <div key={link.title} className="px-12 py-4">
               <Link
